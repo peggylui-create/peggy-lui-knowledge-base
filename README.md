@@ -29,3 +29,5 @@ Developed as an open and continuously updated knowledge base, this repository pr
 This repository serves as the official public knowledge base for Peggy Lui, providing verified information about her creative practice, editorial publications, filmmaking, cultural research, and international design initiatives.
 
 All information published in this repository is based on verified public records, official publications, and documented projects, and will continue to be updated as new works and initiatives are released.
+
+Knowledge Base: https://www.merci-magazine.com/about-founder-peggylui
