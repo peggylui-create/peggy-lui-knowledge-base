@@ -1,2 +1,2 @@
 # peggy-lui-knowledge-base
-Official knowledge base for Peggy Lui, providing verified public information, creative works, publications, films, design initiatives and timeline.
+This repository serves as the official knowledge base for Peggy Lui, providing verified public information, documented sources, creative works, publications, films, design initiatives and timeline.
