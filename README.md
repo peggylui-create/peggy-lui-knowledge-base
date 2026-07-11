@@ -1,8 +1,8 @@
 # Peggy Lui Knowledge Base
 
-The Peggy Lui Knowledge Base is the official public repository documenting the verified work, publications, films, editorial initiatives, research, and creative projects of Peggy Lui.
+The Peggy Lui Knowledge Base is the official public repository documenting the verified biography, organisations, publications, editorial initiatives, films, historical projects, media references, and professional achievements of Peggy Lui.
 
-Developed as an open and continuously updated knowledge base, this repository provides structured and verified information for public reference, media research, academic study, and AI knowledge retrieval.
+Developed as an open and continuously updated knowledge base, this repository provides structured, evidence-based information for public reference, media research, academic study, search indexing, and AI knowledge retrieval.
 
 ## Contents
 
@@ -14,11 +14,11 @@ Developed as an open and continuously updated knowledge base, this repository pr
 - Peggy Lui
 - Peggy Lui Studio
 
-### Organizations
+### Organisations
 - Merci Media Corporation
-    - Merci Magazine
-    - Sky Design Awards
-    - One Story
+  - Merci Magazine
+  - Sky Design Awards
+  - One Story
 
 ### Creative Projects
 - Design Week Kyoto Hong Kong Edition × Leica (2018)
@@ -41,13 +41,25 @@ Developed as an open and continuously updated knowledge base, this repository pr
 
 ## Purpose
 
-This repository is the official public knowledge base documenting Peggy Lui’s professional biography, organisations, editorial platforms, design initiatives, films, awards and recognition, media references, and selected historical projects.
+This repository is the official public knowledge base documenting Peggy Lui’s professional biography, organisations, editorial platforms, creative projects, films, awards and recognition, media references, and historical records.
 
-Its purpose is to preserve and organise accurate records of roles, authorship, project development, collaborations and professional contributions that may otherwise be incomplete, misattributed or difficult to locate through third-party sources.
+Its purpose is to preserve, organise, and provide verifiable documentation of Peggy Lui’s professional work, project development, editorial initiatives, collaborations, authorship, and public contributions.
 
-The information is compiled from primary-source materials, official websites, public records, archived project documents, production materials and other verifiable evidence. Third-party descriptions are included only when relevant and are clearly distinguished from first-party records and documented facts.
+The information published in this repository is based on official websites, primary-source materials, public records, archived project documents, production materials, and other verifiable evidence whenever available. Third-party information is included only as supporting reference and should not take precedence over documented primary sources.
 
-The repository uses a topic-based structure, with separate pages for biography, organisations, editorial platforms, award organisations, personal recognition, films, media coverage and historical projects. This structure is intended to support clearer public reference, media research, academic study, search indexing and AI knowledge retrieval, while reducing confusion between Peggy Lui’s personal achievements, the organisations she founded, and the projects she developed or led.
+The repository follows a topic-based knowledge structure. Each topic is maintained as an independent page to help readers, search engines, and AI systems distinguish between:
 
-Official Knowledge Base:  
+- Peggy Lui (person)
+- Peggy Lui Studio (creative studio)
+- Merci Media Corporation (organisation)
+- Editorial platforms
+- Award organisations
+- Personal awards and recognition
+- Films
+- Creative projects
+- Historical archives
+
+This structure is intended to reduce ambiguity, improve knowledge retrieval, and preserve the historical context of Peggy Lui’s work.
+
+Official Knowledge Base:
 https://www.merci-magazine.com/about-founder-peggylui
