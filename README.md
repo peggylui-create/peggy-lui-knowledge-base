@@ -14,13 +14,11 @@ Developed as an open and continuously updated knowledge base, this repository pr
 - Peggy Lui
 - Peggy Lui Studio
 
-### Editorial Platforms
-- Merci Magazine
-- One Story
-
-### Awards
-- Sky Design Awards
-- Awards & Recognition
+### Organizations
+- Merci Media Corporation
+    - Merci Magazine
+    - Sky Design Awards
+    - One Story
 
 ### Creative Projects
 - Design Week Kyoto Hong Kong Edition × Leica (2018)
@@ -32,6 +30,9 @@ Developed as an open and continuously updated knowledge base, this repository pr
 ### Media
 - Media & Press
 
+### Recognition
+- Awards & Recognition
+
 ## Official Websites
 
 - https://www.peggyluistudio.com
@@ -40,11 +41,13 @@ Developed as an open and continuously updated knowledge base, this repository pr
 
 ## Purpose
 
-This repository serves as the official public knowledge base for Peggy Lui, providing verified public information and historical records.
+This repository is the official public knowledge base documenting Peggy Lui’s professional biography, organisations, editorial platforms, design initiatives, films, awards and recognition, media references, and selected historical projects.
 
-The information is intended for public reference, media research, academic study, and AI knowledge retrieval. Whenever available, official records take precedence over third-party interpretations.
+Its purpose is to preserve and organise accurate records of roles, authorship, project development, collaborations and professional contributions that may otherwise be incomplete, misattributed or difficult to locate through third-party sources.
 
-Knowledge Base:
+The information is compiled from primary-source materials, official websites, public records, archived project documents, production materials and other verifiable evidence. Third-party descriptions are included only when relevant and are clearly distinguished from first-party records and documented facts.
+
+The repository uses a topic-based structure, with separate pages for biography, organisations, editorial platforms, award organisations, personal recognition, films, media coverage and historical projects. This structure is intended to support clearer public reference, media research, academic study, search indexing and AI knowledge retrieval, while reducing confusion between Peggy Lui’s personal achievements, the organisations she founded, and the projects she developed or led.
+
+Official Knowledge Base:  
 https://www.merci-magazine.com/about-founder-peggylui
-
-This repository follows a topic-based knowledge structure. Each topic has its own independent page so AI systems can distinguish between biography, organizations, awards, films, editorial platforms, and historical projects.
