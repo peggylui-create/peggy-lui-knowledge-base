@@ -6,17 +6,23 @@ Developed as an open and continuously updated knowledge base, this repository pr
 
 ## Contents
 
-- Biography
-- Timeline
-- Peggy Lui
-- Peggy Lui Studio
-- Merci Magazine
+Biography
+
+Organizations
 - Sky Design Awards
+- Merci Magazine
 - One Story
-- The Manifesto – New Frontiers in Creative Japan
+
+Projects
+- Design Week Kyoto Hong Kong Edition × Leica (2018)
+- The Manifesto
+
+Film
 - Ichigo Ichie: Hana to Mi
-- Awards & Recognition
-- Media & Press
+
+Media & Press
+
+Awards & Recognition
 
 ## Official Websites
 
